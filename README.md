@@ -1,6 +1,6 @@
 # ✋About me:
 
-  Hi, there I'm Biruk, a passionate junior front-end developer with a knack for creating visually appealing and user-friendly websites. I have honed my skills to transform designs into fully functional and responsive web interfaces. I have an interest in machine learning and its applications.
+  Hi, there I'm Biruk, a passionate junior front-end developer with a knack for creating visually appealing and user-friendly websites. I have honed my skills to transform designs into fully functional and responsive web interfaces. I also have an interest in machine learning and its applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biruk-bizuayehu-b7a80b103) 
