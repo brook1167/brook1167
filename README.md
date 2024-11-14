@@ -1,4 +1,4 @@
-# Hi, I'm Biruk Bizuayehu 👋:
+# Hi, I'm Biruk Bizuayehu 👋
 
 
 I am a Front-End Developer | Machine Learning Engineer
