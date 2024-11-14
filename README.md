@@ -3,8 +3,10 @@
 
 I am a Front-End Developer | Machine Learning Engineer
 
-- 🔭 I'm currently learning Machine Learning
-- 🌱 I’m learning ML engineering, MLOps, Data Engineering.
+- 🔭 Currently working in web development, focusing on building dynamic, user-centric applications.
+
+- 🌱 Actively expanding expertise in Machine Learning Engineering, MLOps, and Data Engineering.
+
   
 
 ## 🌐 Socials:
