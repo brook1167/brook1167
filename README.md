@@ -5,7 +5,7 @@ I am a Front-End Developer | Machine Learning Engineer
 
 - 🔭 Currently working in web development, focusing on building dynamic, user-centric applications.
 
-- 🌱 Actively expanding expertise in Machine Learning Engineering, MLOps, and Data Engineering.
+- 🌱 Currently learning React Native to expand my skills in cross-platform mobile development.
 
   
 
