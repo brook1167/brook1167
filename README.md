@@ -1,4 +1,4 @@
-# Hi, I’m Biruk Bizuayehu 👋
+# Hi, I’m Biruk 👋
 
 I'm a passionate **Front-End Developer** and **Mobile App Developer** with a keen interest in **Data Analysis**. I love turning ideas into functional, engaging, and user-friendly digital experiences.
 
